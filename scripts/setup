@@ -1,4 +1,6 @@
 #!/bin/bash
+touch proj/AAML_final_proj/src/tiny/v0.1/training/image_classification/trained_models/pretrainedResnet_quant.cc
+touch proj/AAML_final_proj/src/tiny/v0.1/training/image_classification/trained_models/pretrainedResnet_quant.h
 set -e
 
 # Clean up obsolete nmigen directory, if present
